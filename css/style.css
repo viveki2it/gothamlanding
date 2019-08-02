@@ -1,0 +1,36 @@
+/* CSS Document */
+
+
+body{margin:0px; padding:0px; background:#000; color:#fff;}
+
+.homeheaderbg{background: url(../images/homepagebg.jpg) top center no-repeat; background-attachment:scroll;
+-webkit-background-size: cover;        
+-moz-background-size: cover;                          
+-o-background-size: cover;                                                               
+background-size: cover; height:510px;}   
+
+.thankyouheaderbg{background: url(../images/headerbgthankyou.jpg) top center no-repeat; background-attachment:scroll;
+-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}                                         
+
+.rightbox{ background:#fff; border:1px solid #FF5400; opacity:.7; box-shadow:3px 3px 3px #ccc; color:#333333;} 
+.leftbox{float:left; padding-top:20px; } 
+
+.form{ margin: 0 auto; text-align:center; margin-bottom:20px; padding-top:15px;}      
+           
+.purple{ border:1px solid #B93A0D; background:#B93A0D; color:#fff;width:120px; padding:7px;}
+
+.emailbox{ border:1px solid #B93A0D; width:270px; padding:7px;color:#333333; }                                                                                                     
+           
+.input{padding:10px; width:260px; border:1px solid #FF5400; margin:2px 0px;}                          
+                                									 
+.topbg{ background:#B93A0D; height:40px;color:#fff; text-align:center; padding-top:8px;}                          
+               
+.bs-wizard {margin-top: 0px; margin-bottom:20px;border-bottom:0px;}
+.title{ font-size:40px;color:#B93A0D; font-weight:bold;  text-shadow: 2px 2px 2px #fff;}
+
+
+
+img{ border:0px;}
+       
+       
+ 
